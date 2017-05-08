@@ -2,7 +2,7 @@
 
 # Install dependencies
 sudo apt-get update -y
-sudo apt-get install -y curl libfontconfig
+sudo apt-get install -y curl libfontconfig g++
 
 # Install RVM with ruby and rails
 gpg --keyserver hkp://keys.gnupg.net --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3
